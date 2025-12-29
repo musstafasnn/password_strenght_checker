@@ -238,7 +238,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **h3atwave**
 
-- GitHub: [@h3atwave](https://github.com/h3atwave)
+- GitHub: [@h3atwave](https://github.com/musstafasnn)
 
 ---
 
@@ -249,3 +249,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 *Güvenli şifreler kullanın! 🔐*
 
 </div>
+
